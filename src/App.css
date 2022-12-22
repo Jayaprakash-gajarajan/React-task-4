@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  height: 100vh;
+  background-color: gray;
+  color: white;
+}
+
+
+label {
+  font-size: 20px;
+  margin: 8px;
+
+}
+
+.input {
+  width: 250px;
+  height: 25px;
+}
+
+input {
+  font-size: 16px;
+}
+
+.read {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
